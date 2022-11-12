@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Fatmeali
+- 👋 Hi, I’m Fatmea
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Programming basics.
+- 🌱 I’m studying Programming basics at Softuni
