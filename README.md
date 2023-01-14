@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Fatme
 - 👀 I’m interested in Python.
-- 🌱 I’m studying Programming basics at Softuni
+- 🌱 I’m studying Programming Fundamentals with Python at Softuni
